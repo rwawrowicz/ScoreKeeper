@@ -1,0 +1,14 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ScoreKeeper</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="goal">GOAL!</string>
+    <string name="foul_button">Count foul</string>
+    <string name="corner_button">Count corner</string>
+    <string name="stats">
+        Match statistics:
+        \n\nCorners  <xliff:g id="corner" example="0">%d</xliff:g>
+        \nFouls      <xliff:g id="foul" example="0">%d</xliff:g>
+    </string>
+    <string name="reset">RESET</string>
+</resources>
